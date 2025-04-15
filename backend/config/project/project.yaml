@@ -1,4 +1,4 @@
-dateModified: 1737525581
+dateModified: 1744759882
 elementSources:
   craft\elements\Entry:
     -
@@ -176,5 +176,5 @@ system:
   live: true
   name: 'Nuxt Starter'
   retryDuration: null
-  schemaVersion: 5.6.0.2
+  schemaVersion: 5.7.0.3
   timeZone: America/Los_Angeles
